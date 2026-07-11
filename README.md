@@ -46,6 +46,7 @@ Hosted on Render's free tier — the first request after inactivity may take
 ## License
 
 
+
 ![Project 1st Screenshot](https://res.cloudinary.com/esl7cqh0/image/upload/v1783786836/Screenshot_2026-07-11_215023_iasg52.png)
 ![project 2nd Screenshot](https://res.cloudinary.com/esl7cqh0/image/upload/v1783786993/Screenshot_2026-07-11_215302_uqeeny.png)
 ![Project 3rd Screenshot](https://res.cloudinary.com/esl7cqh0/image/upload/f_auto,q_auto/Screenshot_2026-07-11_211811_vwdcd3)
