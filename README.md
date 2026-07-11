@@ -31,6 +31,8 @@ GET /search/inception
 
 ## Tech Stack
 - Python / FastAPI
+- Node.js
+- MongoDB
 - Deployed on Render
 
 ## Running locally
