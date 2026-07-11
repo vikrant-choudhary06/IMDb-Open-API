@@ -1,5 +1,7 @@
 # IMDb Open API
 
+# ONLY FOR STUDY PURPOSE
+
 Unofficial REST API for searching IMDb data, built with FastAPI and deployed on Render.
 
 **Live docs:** https://cut-crew-all.onrender.com/docs
